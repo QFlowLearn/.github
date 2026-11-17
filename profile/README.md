@@ -8,13 +8,13 @@ We build tools for creating, moving, and delivering assessments. Our work center
 
 | Project | Purpose | Availability |
 | --- | --- | --- |
-| [**QFlow Author**](https://github.com/QFlowLearn/qflow-author) | Create and review questions, organize banks, import existing assessments, and export QTI packages. | Public · AGPL-3.0-only. |
-| [**QFlow Deliver**](https://github.com/QFlowLearn/qflow-deliver) | Publish assessments and manage learner attempts, timing, accommodations, results, and LMS connections. | Public · AGPL-3.0-only. |
+| [**QFlow Author**](https://github.com/QFlowLearn/qflow-author) | Create and review questions, organize banks, import existing assessments, and export QTI packages. | Public · AGPL v3. |
+| [**QFlow Deliver**](https://github.com/QFlowLearn/qflow-deliver) | Publish assessments and manage learner attempts, timing, accommodations, results, and LMS connections. | Public · AGPL v3. |
 | [**QTI 3 library**](https://github.com/QFlowLearn/qti3) | Render, score, validate, and migrate QTI assessment content with TypeScript and a Web Component player. | Public · MIT. |
 
 ## Our intent
 
-QFlow Author and QFlow Deliver are open source under AGPL-3.0-only. We are building a community around practical assessment authoring and interoperability. Author is useful independently, including when you deliver assessments in another system.
+QFlow Author and QFlow Deliver are open source under AGPL v3. We are building a community around practical assessment authoring and interoperability. Author is useful independently, including when you deliver assessments in another system.
 
 We keep authoring, item rendering and scoring, and assessment delivery separate. The QTI library can support other applications. QFlow Deliver provides the delivery platform. Commercial hosted services and support complement the open-source projects.
 
