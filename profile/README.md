@@ -10,7 +10,7 @@ We build tools for creating, moving, and delivering assessments. Our work center
 | --- | --- | --- |
 | [**QFlow Author**](https://github.com/QFlowLearn/qflow-author) | Create and review questions, organize banks, import existing assessments, and export QTI packages. | Public · AGPL-3.0-only. |
 | [**QFlow Deliver**](https://github.com/QFlowLearn/qflow-deliver) | Publish assessments and manage learner attempts, timing, accommodations, results, and LMS connections. | Public · AGPL-3.0-only. |
-| [**QTI 3 library**](https://github.com/QFlowLearn/qti3) | Render, score, validate, and migrate QTI assessment content with TypeScript and a Web Component player. | Public; maintained by QFlowLearn. |
+| [**QTI 3 library**](https://github.com/QFlowLearn/qti3) | Render, score, validate, and migrate QTI assessment content with TypeScript and a Web Component player. | Public · MIT. |
 
 ## Our intent
 
