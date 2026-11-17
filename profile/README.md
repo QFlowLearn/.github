@@ -22,6 +22,6 @@ Content portability guides the work: preserve the original, produce a useful sup
 
 ## Follow the work
 
-Visit [QFlowLearn](https://qflowlearn.com) for the product, [the roadmap](https://qflowlearn.com/roadmap) for direction, and [the QTI library](https://github.com/LongsightGroup/qti3) for public code and technical issues.
+Explore [our project site](https://qflowlearn.github.io) for the project lineup and open-source plans. Visit [QFlowLearn](https://qflowlearn.com) for the product, [the roadmap](https://qflowlearn.com/roadmap) for direction, and [the QTI library](https://github.com/LongsightGroup/qti3) for public code and technical issues.
 
 Author's license, contribution process, and release details will be published with its open-source release.
